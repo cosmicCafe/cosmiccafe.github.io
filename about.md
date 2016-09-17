@@ -8,7 +8,7 @@ My name is Echo. I'm just a nobody somewhere on the face of this pale blue dot b
 
 ### More Information
 
--Age: 23
--Ethnicity: African/Arab
--Weight: 109kg
--Height: 186cm
+-Age: 23  
+-Ethnicity: African/Arab  
+-Weight: 109kg  
+-Height: 186cm  
